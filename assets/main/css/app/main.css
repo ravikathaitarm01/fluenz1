@@ -1,0 +1,20 @@
+.popover {
+	max-width: 500px;
+}
+
+.social-item {
+	min-height: 250px;
+}
+.social-item-description {
+	height: 45px;
+	overflow: auto;
+}
+
+.social-item-render {
+	height: 400px;
+	overflow-y: auto;
+}
+
+.stepy-errors {
+	margin-top: 45px;
+}
